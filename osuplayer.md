@@ -2,7 +2,7 @@
     <img src="https://x.founntain.de/IY26BPcE.png" />
 </P>
 
-This is the *official* osu!player plus repository and is mainly developed by (@Founntain)[https://github.com/Founntain], with help of (@Cesan)[https://github.com/Cesan].  
+This is the *official* osu!player plus repository and is mainly developed by [@Founntain](https://github.com/Founntain), with help of [@Cesan](https://github.com/Cesan).  
 osu!player plus is a music player for *osu!* with the focus of playing your osu! songs **without having to start osu!**.  
 
 If you find any bugs please report them on the [official osu!player discord](https://discord.gg/RJQSc5B), you can ping me on Discord if you want. You can also report bugs or feedback via mail at osuplayer@founntain.de.  
