@@ -9,8 +9,6 @@ If you find any bugs please report them on the [official osu!player discord](htt
 
 *I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better stuctured*
 
-**[API stats can be found here](https://server.founntain.de/)**
-
 <p align="center">
     <img src="https://x.founntain.de/MbkjGiNf.png" />
 </P>
