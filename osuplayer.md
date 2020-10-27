@@ -5,12 +5,12 @@
 This is the *official* osu!player plus repository and is mainly developed by [@Founntain](https://github.com/Founntain), with help of [@Cesan](https://github.com/Cesan).  
 osu!player plus is a music player for *osu!* with the focus of playing your osu! songs **without having to start osu!**.  
 
-If you find any bugs please report them on the [official osu!player discord](https://discord.gg/RJQSc5B), you can ping me on Discord if you want. You can also report bugs or feedback via mail at osuplayer@founntain.de.  
+If you find any bugs please report them on the [official osu!player discord](https://discord.gg/RJQSc5B), you can ping me on Discord if you want. You can also report bugs or give feedback via mail at osuplayer@founntain.de.  
 
 *I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better stuctured*
 
 <p align="center">
-    <img src="https://x.founntain.de/MbkjGiNf.png" />
+    <img src="https://x.founntain.de/OSQ0ZaJr.png" />
 </P>
 
 ## Download and Requirements
