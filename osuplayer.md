@@ -86,7 +86,7 @@ However for the osu!player plus we will release the source code in the near futu
 
 Here are some screenshots of the player, so you can get a look of the player.
 
-![](https://x.founntain.de/MbkjGiNf.png)
+![](https://x.founntain.de/OSQ0ZaJr.png)
 ![](https://x.founntain.de/wuEELZOe.png)
 ![](https://x.founntain.de/7YrxyPQc.png)
 ![](https://x.founntain.de/bcB1yP2s.png)
