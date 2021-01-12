@@ -7,7 +7,7 @@ osu!player plus is a music player for *osu!* with the focus of playing your osu!
 
 If you find any bugs please report them on the [official osu!player discord](https://discord.gg/RJQSc5B), you can ping me on Discord if you want. You can also report bugs or give feedback via mail at osuplayer@founntain.de.  
 
-*I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better stuctured*
+*I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better structured*
 
 <p align="center">
     <img src="https://x.founntain.de/OSQ0ZaJr.png" />
