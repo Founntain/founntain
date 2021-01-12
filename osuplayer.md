@@ -80,7 +80,7 @@ When you are done translating, you can upload the language you have created or e
 ## Source Code
 
 The source code of the *legacy osu!player* was never released and never will.  
-However for the osu!player plus we will release the source code in the near future. We are trying to go *open source* before the end of the year *2020*. And I hope some of you want to contribute to this project, even tho most of the stuff is already done. Bugs and feature requests will always be there.
+However for the osu!player plus we will release the source code in the near future. We are trying to go *open source* before the end of the year *2021*. And I hope some of you want to contribute to this project, even tho most of the stuff is already done. Bugs and feature requests will always be there and [can be reported here](https://github.com/Founntain/osuplayer-issues).
 
 ## Screenshots
 
