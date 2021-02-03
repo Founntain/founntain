@@ -50,7 +50,7 @@ The osu!player plus has a build in updater, to keep the player up to date. You w
 The osu!player plus has a user system, which is handled by the *osu!player API*. The API handles requests, like creating a profile, editing it, uploading languages and more. It also handles the party system.  
 #### Why should I create a profile?
 First you would show us that you use the osu!player plus and you want to be a part of this community. However creating a profile gives you some *"extra features"*, like uploading languages and themes. You don't need a profile to use the player, it just extist.  
-**[🔸 API Stats can be found here ](https://server.founntain.de)**
+**[🔸 API Stats can be found here ](https://vserver.founntain.de)**
 
 ## Synced play via Discord or osu!player API
 In osu!player plus you get the ability to send invites to discord text-channels (If you enabled discord in the settings) and let other people join your osu!player party. You can also invite people with the party id, they can enter the ID in the join party view. The third option would be making a public party. If the party is public, the party will be open for everyone, they can join party by looking into the join view and select the party they want to join.
