@@ -9,7 +9,8 @@ You probably won't find anything useful here but thanks for visiting my GitHub p
 ### You can contact me on these medias:
 
 **Twitter:** [@FounntainXD](https://twitter.com/FounntainXD)  
-**Discord:** [osu!player plus discord server](https://discord.gg/RJQSc5B)
+**Discord:** [osu!player plus discord server](https://discord.gg/RJQSc5B)  
+**E-Mail:** [7@founntain.dev](mailto:7@founntain.dev)
 
 ## Github stats here below
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=founntain&show_icons=true&title_color=FF2272&icon_color=FF2272)](https://github.com/anuraghazra/github-readme-stats)
