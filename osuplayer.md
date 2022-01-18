@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://x.founntain.de/IY26BPcE.png" />
+    <img src="https://7.founntain.dev/IY26BPcE.png" />
 </P>
 
 This is the *official* osu!player plus repository and is mainly developed by [@Founntain](https://github.com/Founntain), with help of [@Cesan](https://github.com/Cesan).  
@@ -10,7 +10,7 @@ If you find any bugs please report them on the [official osu!player discord](htt
 *I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better structured*
 
 <p align="center">
-    <img src="https://x.founntain.de/OSQ0ZaJr.png" />
+    <img src="https://7.founntain.dev/OSQ0ZaJr.png" />
 </P>
 
 ## Download and Requirements
@@ -22,7 +22,7 @@ If you find any bugs please report them on the [official osu!player discord](htt
 ✔ An internet connection for the first start, to get language files etc.
 
 #### Download osu!player plus
-**[💾 Download latest release](https://server.founntain.de/osuplayerplus/files/latest.zip)**
+**[💾 Download latest release](https://update.founntain.dev/files/latest.zip)**
 
 The osu!player plus has a build in updater, to keep the player up to date. You will get notified when an update is downloaded and ready to be installed.
 
@@ -50,7 +50,7 @@ The osu!player plus has a build in updater, to keep the player up to date. You w
 The osu!player plus has a user system, which is handled by the *osu!player API*. The API handles requests, like creating a profile, editing it, uploading languages and more. It also handles the party system.  
 #### Why should I create a profile?
 First you would show us that you use the osu!player plus and you want to be a part of this community. However creating a profile gives you some *"extra features"*, like uploading languages and themes. You don't need a profile to use the player, it just extist.  
-**[🔸 API Stats can be found here ](https://vserver.founntain.de)**
+**[🔸 API Stats can be found here ](https://stats.founntain.dev)**
 
 ## Synced play via Discord or osu!player API
 In osu!player plus you get the ability to send invites to discord text-channels (If you enabled discord in the settings) and let other people join your osu!player party. You can also invite people with the party id, they can enter the ID in the join party view. The third option would be making a public party. If the party is public, the party will be open for everyone, they can join party by looking into the join view and select the party they want to join.
@@ -60,13 +60,13 @@ The host of the party can choose the songs, playback speed, party publicity and 
 
 *Delay? Yes of course there is one, but only 1, max. 2 seconds.*
 
-![](https://x.founntain.de/bcB1yP2s.png)
+![](https://7.founntain.dev/bcB1yP2s.png)
 
 ## Language Support
 Most of the text of osu!player can be translated. However some important parts are not translatable.  
 Translating the osu!player is obviously not forced and more work for volunteers. You can get started by opening the *Language Editor*, which you can find in the *Settings > General Settings > Open Language Editor*. When the editor is open, you can simply start translating the player, either by *creating a new language* or by *editing an installed language*.
 
-![](https://x.founntain.de/u8kSe4l0.png)
+![](https://7.founntain.dev/u8kSe4l0.png)
 
 #### Uploading a translation to the osu!player API
 When you are done translating, you can upload the language you have created or edited. If you want to contribute to osu!player translations, you can head into the *Settings > General Settings > Manage Languages*. There you will be able to upload your language. If there is already a translation of the language you are translating, you still will be able to upload it. However you will overwrite it on the server, so only do it, if your language is complete and has any benifits over the existing one.
@@ -74,7 +74,7 @@ When you are done translating, you can upload the language you have created or e
 *You need an osu!player plus profile to upload translations, when you upload a translation, you will get the **translator** role on your profile.*
 
 <p align="center">
-    <img src="https://x.founntain.de/28HYQBTj.png" />
+    <img src="https://7.founntain.dev/28HYQBTj.png" />
 </P>
 
 ## Source Code
@@ -86,8 +86,8 @@ However for the osu!player plus we will release the source code in the near futu
 
 Here are some screenshots of the player, so you can get a look of the player.
 
-![](https://x.founntain.de/OSQ0ZaJr.png)
-![](https://x.founntain.de/wuEELZOe.png)
-![](https://x.founntain.de/7YrxyPQc.png)
-![](https://x.founntain.de/bcB1yP2s.png)
-![](https://x.founntain.de/mMee78pA.png)
+![](https://7.founntain.dev/OSQ0ZaJr.png)
+![](https://7.founntain.dev/wuEELZOe.png)
+![](https://7.founntain.dev/7YrxyPQc.png)
+![](https://7.founntain.dev/bcB1yP2s.png)
+![](https://7.founntain.dev/mMee78pA.png)
