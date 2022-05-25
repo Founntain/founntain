@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Founntain
 
-You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [osu!player and osu!player plus](https://github.com/Founntain/founntain/blob/master/osuplayer.md) but lets stick with the name osu!player. 
+You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [osu!player and osu!player plus](https://github.com/Founntain/founntain/blob/master/osuplayer.md) but lets stick with the name osu!player. You can find the rewrite of the osu!player on the [official osu!player repository](https://github.com/Founntain/osuplayer)
 
 ### You can contact me on these medias:
 
