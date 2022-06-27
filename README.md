@@ -6,7 +6,7 @@
 
 You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [osu!player and osu!player plus](https://github.com/Founntain/founntain/blob/master/osuplayer.md) but lets stick with the name osu!player.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=founntain&repo=osuplayer)](https://github.com/founntain/osuplayer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osu-player&repo=osuplayer)](https://github.com/founntain/osuplayer)
 
 ### You can contact me on these medias:
 
