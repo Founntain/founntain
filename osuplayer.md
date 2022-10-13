@@ -9,7 +9,7 @@ If you find any bugs please report them on the [official osu!player discord](htt
 
 *I prefer discord, because chatting is much easier, then waiting for mails. Also the chat is much better structured*
 
-### osu!player plus isn't supported anymore check out our new open source version ![here](https://github.com/osu-player/osuplayer)
+### osu!player plus isn't supported anymore check out our new open source version ![here](https://github.com/founntain/osuplayer)
 
 <p align="center">
     <img src="https://7.founntain.dev/OSQ0ZaJr.png" />
