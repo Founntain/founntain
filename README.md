@@ -7,6 +7,7 @@
 You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [osu!player and osu!player plus](https://github.com/Founntain/osuplayer) but lets stick with the name osu!player.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Founntain&repo=osuplayer)](https://github.com/Founntain/osuplayer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Founntain&repo=gudsafe)](https://github.com/Founntain/gudsafe)
 
 ### You can contact me on these medias:
 
