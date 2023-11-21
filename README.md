@@ -15,7 +15,7 @@ You probably won't find anything useful here but thanks for visiting my GitHub p
 ### You can contact me on these medias:
 
 **Twitter:** [@FounntainXD](https://twitter.com/FounntainXD)  
-**Discord:** [osu!player plus discord server](https://discord.gg/RJQSc5B)  
+**Discord:** [osu!player discord server](https://discord.gg/RJQSc5B)  
 **E-Mail:** [7@founntain.dev](mailto:7@founntain.dev)  
 > [!WARNING]\
 > Please don't send **any** marketing mails to my e-mail address! If you still prefer to do so, assume that you will land on my blacklist!
