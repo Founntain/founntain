@@ -17,7 +17,8 @@ You probably won't find anything useful here but thanks for visiting my GitHub p
 **Twitter:** [@FounntainXD](https://twitter.com/FounntainXD)  
 **Discord:** [osu!player plus discord server](https://discord.gg/RJQSc5B)  
 **E-Mail:** [7@founntain.dev](mailto:7@founntain.dev)  
-  - ⚠️ Please don't send any marketing mails to my e-mail address! If you still prefer to do so, assume that you will land on my blacklist!
+> [!WARNING]\
+> Please don't send **any** marketing mails to my e-mail address! If you still prefer to do so, assume that you will land on my blacklist!
 
 ## Github stats here below
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=founntain&show_icons=true&title_color=FF2272&icon_color=FF2272)](https://github.com/anuraghazra/github-readme-stats)
