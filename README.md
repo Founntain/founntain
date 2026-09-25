@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Founntain
 
-You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [osu!player](https://github.com/Founntain/osuplayer).
+You probably won't find anything useful here but thanks for visiting my GitHub page. I'm the developer of the [Zenith Daily Challenge](https:/zenith.founntain.dev), [TETR.IO Overlay](https://github.com/Founntain/TetraLeague.Overlay) and [osu!player](https://github.com/Founntain/osuplayer).
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Founntain&repo=osuplayer)](https://github.com/Founntain/osuplayer)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=Founntain&repo=TetraLeague.Overlay)](https://github.com/Founntain/TetraLeague.Overlay)  
